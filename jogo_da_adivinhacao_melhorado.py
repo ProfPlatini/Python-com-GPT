@@ -29,7 +29,7 @@ while True:
             print(f"Gênio ou sortudo? Você precisou de apenas {choices} tentativa para acertar o número!")
             break
         else:
-            print(f"Você precisou de {choices} tentativas para acertar! Esperava mais, Eduardo....")
+            print(f"Você precisou de {choices} tentativas para acertar!")
             break
        
     elif number_choice < numero:
@@ -40,4 +40,3 @@ while True:
 
 
     
-sfdvg
